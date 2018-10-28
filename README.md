@@ -1,6 +1,6 @@
 # STL_BOUNDARY_Tracts <img src="https://slu-dss.github.io/img/gisLogoSm.png" align="right" />
 ## Census Tracts For The City of St. Louis
-[![](https://img.shields.io/badge/extent-Missouri-red.svg)](https://github.com/slu-openGIS/STL_BOUNDARY_Tracts/)
+[![](https://img.shields.io/badge/extent-City%20of%20St.%20Louis-red.svg)](https://github.com/slu-openGIS/STL_BOUNDARY_Tracts/)
 [![](https://img.shields.io/badge/category-census%20geography-orange.svg)](https://github.com/slu-openGIS/STL_BOUNDARY_Tracts/)
 [![](https://img.shields.io/github/release/slu-openGIS/STL_BOUNDARY_Tracts.svg?label=version)](https://github.com/slu-openGIS/STL_BOUNDARY_Tracts/releases)
 [![](https://img.shields.io/github/last-commit/slu-openGIS/STL_BOUNDARY_Tracts.svg)](https://github.com/slu-openGIS/STL_BOUNDARY_Tracts/commits/master)
