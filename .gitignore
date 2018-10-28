@@ -36,4 +36,4 @@ vignettes/*.pdf
 rsconnect/
 
 OS Generated files
-*._
+._*
