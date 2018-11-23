@@ -2,7 +2,7 @@
 
 ### Metadata
   * **Title -** City of St. Louis 2010 Census Tracts
-  * **Date of Last Update -** 28 Oct 2018
+  * **Date of Last Update -** 22 Nov 2018
   * **Edition -** v1.0
   * **Abstract -** These data contain the census tracts to the extent of the city of St. Louis.
   * **Purpose -** St. Louis mapping
