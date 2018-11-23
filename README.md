@@ -13,7 +13,7 @@ These data contain the census tracts to the geographic extent of the city of St.
 The [`gateway` package](https://github.com/slu-openGIS/gateway) can be used to download and import these data as a simple feature object:
 
 ```r
-stlTracts <- gateway::gw_get_repo("STL_BOUNDARY_tracts")
+stlTracts <- gateway::gw_get_repo("STL_BOUNDARY_Tracts")
 ```
 
 ## About the SLU DSS
